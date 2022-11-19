@@ -1,0 +1,31 @@
+a {
+    color: black;
+    text-decoration: none;
+}
+h1, 
+h2, 
+h3, 
+h4, 
+h5, 
+h6,
+p {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+    color: chocolate;
+} 
+nav.nav {
+    background-color: blanchedalmond;
+}
+body {
+    text-align: center;
+    background-color: black;
+}
+table h2 {
+    color: cornflowerblue;
+    font-size: 25px;
+}
+.logo {
+    color: teal;
+    font-size: 40px;
+}
